@@ -1,0 +1,2 @@
+# FootManager
+Manager Game
